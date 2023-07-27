@@ -1,0 +1,29 @@
+
+.list-element{
+    box-shadow: 0px 0px 7px rgb(73, 73, 73);
+    width: 70vw;
+    height: 10vh;
+    margin-bottom: 12px;
+}
+
+
+.list-element li{
+    list-style:none;
+    display: grid;
+    grid-template-columns:20% 30% 30% 20%;
+    column-gap: 3px;
+    padding: 10px;
+}
+
+.list-btn{
+    
+    border: 0px;
+    color: aliceblue;
+    height: 6vh;
+    width: 10vw;
+    font-size: larger;
+}
+.list-text{
+    display: flex;
+    font-size: 17px;
+}

@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+body{
+  /* background-color:rgb(255, 246, 234); */
+  background-image: linear-gradient(to right, #80d4ff,#83d6ff );
+}
