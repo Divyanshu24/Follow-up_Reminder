@@ -18,10 +18,12 @@
 .list-btn{
     
     border: 0px;
-    color: aliceblue;
+    color: rgb(247, 247, 114);
     height: 6vh;
     width: 10vw;
     font-size: larger;
+    border-radius: 1vh;
+    
 }
 .list-text{
     display: flex;

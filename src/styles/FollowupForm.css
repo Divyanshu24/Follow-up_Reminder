@@ -44,15 +44,16 @@
     margin-left: 53px;
 }
 .form-btn{
-    background-color: #4285F4;
+    background-color: #492769;
     border: 0px;
-    color: aliceblue;
+    color: rgb(247, 247, 114);
     padding: 10px;
     margin-left: 33vh ;
     height: 6vh;
     width: 10vw;
     font-size: larger;
+    border-radius: 1vh;
 }
 .form-btn:hover{
-    background-color: #2877f4;
+    background-color: #4b1765;
 }
